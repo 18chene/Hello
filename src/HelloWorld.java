@@ -7,5 +7,7 @@ public class HelloWorld {
 		System.out.println("Eric Chen");
 		
 		System.out.println("18");
+		
+		System.out.println("Cat");
 	}
 }
